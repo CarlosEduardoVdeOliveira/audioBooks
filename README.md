@@ -1,4 +1,9 @@
 ## Áudio Books
 
-Um player simpler para reproduzir áudios, feito com HTML, CSS e JavaScript.
+Um player simpler para reproduzir áudios, feito com:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript.</li>****
+</ul>
 <img src="./assets/images/projeto.png" />
