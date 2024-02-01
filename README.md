@@ -6,5 +6,5 @@ Um player simpler para reproduzir áudios, feito com:
   <li>CSS</li>
   <li>JavaScript.</li>
 </ul>
-<br/><br/><br/>
+<br/>
 <img src="./assets/images/projeto.png" />
